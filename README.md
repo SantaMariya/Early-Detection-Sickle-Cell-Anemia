@@ -83,14 +83,11 @@ sickle-cell-disease-dataset/
 ```text
 Early-Detection-of-Sickle-Cell-Anemia/
 │
-├── code/
-│   ├── SCA_code
+├── SCA_code
 │   
-├── dataset/
-│   └── README.md
+├── Dataset.txt
 │
-├── output/
-│   ├── Result.png
+├── Result.png
 │
 ├── requirements.txt
 │
@@ -100,7 +97,7 @@ Early-Detection-of-Sickle-Cell-Anemia/
 
 The trained model is evaluated using classification metrics and visualizations such as the confusion matrix and performance graphs.
 
-The final results and output screenshots are included in the **outputs** and **screenshots** folders.
+The final results and output screenshots are included in the **output**.
 
 ## 💡 Applications
 
